@@ -28,7 +28,7 @@ To answer these questions, I developed a multi-page Power BI dashboard using DAX
 
 The main dashboard provides a high-level overview of business performance through key metrics and interactive visualizations.
 
-![Sales Dashboard](Screenshots/Sales_Dashboard.png)
+![Sales Dashboard](Sales_Dashboard.png)
 
 ### Key KPIs
 
@@ -59,7 +59,7 @@ This dashboard enables stakeholders to quickly understand overall sales performa
 
 The MTD dashboard focuses on tracking cumulative sales performance throughout a selected month.
 
-![MTD Dashboard](Screenshots/MTD_Report.png)
+![MTD Dashboard](MTD_Report.png)
 
 ### Key Features
 
@@ -78,7 +78,7 @@ This dashboard helps monitor sales progress before month-end and allows decision
 
 This dashboard compares current sales performance with the same period from the previous year.
 
-![Same Period Last Year Dashboard](Screenshots/Same_Period_Last_Year.png)
+![Same Period Last Year Dashboard](Same_Period_Last_Year.png)
 
 ### Analysis Included
 
